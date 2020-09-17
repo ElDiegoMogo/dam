@@ -1,0 +1,3 @@
+Hola, Mundo	¿Que tal Estas?Hola, Mundo	
+¿Que tal Estas?
+Soy un fichero nuevo
