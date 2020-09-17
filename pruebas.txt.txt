@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Blah, blah ,blah, blah
 
 
 
 
 soy una nueva linea de codigo
+=======
+Hola, Mundo	¿Que tal Estas?Hola, Mundo	
+¿Que tal Estas?
+Soy un fichero nuevo
+>>>>>>> master
